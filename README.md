@@ -15,12 +15,12 @@ We have 2 ways to run the applications:
 Run the main method inside Application classes.
 
 <strong>Running from command line: </strong>
-mvn spring-boot:run (use -Dspring.profiles.active=“cloud” when testing all applications together).
+mvn spring-boot:run (use -Dspring.profiles.active=“cloud” with complaint-service when testing all applications together).
 
 <strong>Running tests:</strong>
 mvn test</pre>
 
-The example of API requests can be found in <strong>complaints.json</strong> with your endpoints.
+The example of API requests can be found in <strong>complaints.txt</strong> with your endpoints.
 
 ### Stack:
 <pre>
