@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/juliodias/complaints-codechallenge.svg?branch=master)](https://travis-ci.org/juliodias/complaints-codechallenge)
+
 # Guidelines
 
 Every application can be executed independently, but to test them together make the build process in the following order:
